@@ -1,6 +1,6 @@
 package com.example.yikezhong;
 
-import android.graphics.drawable.Drawable;
+
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
@@ -24,17 +24,11 @@ public class MainActivity extends BaseActivity {
     private ImageView mChuangzuo;
     private LinearLayout mLay;
     private FrameLayout mFlout;
-    /**
-     * 推荐
-     */
+
     private RadioButton mBtn1;
-    /**
-     * 段子
-     */
+
     private RadioButton mBtn2;
-    /**
-     * 视频
-     */
+
     private RadioButton mBtn3;
     private RadioGroup mRg;
 
